@@ -7,4 +7,4 @@ Play your move by writing the coords separated by ", ". DO NOT FORGET THE SPACE!
 
 V 1.0: Player versus player (named tictactoe.py)
 
-V 2.0 (unreleased): Added one move smart(ish) bot
+V 2.0: Added one move smart(ish) bot (named tictactoe2.py)
